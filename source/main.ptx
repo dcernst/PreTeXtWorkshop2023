@@ -9,6 +9,7 @@
     <latex-image-preamble>
       \usepackage{tikz}
     </latex-image-preamble>
+    <rename element="inlineexercise">Problem</rename>
   </docinfo>
 
   <book xml:id="my-great-book">
@@ -80,6 +81,24 @@
         <p>
           Testing local...
         </p>
+
+        <exercise>
+        <statement>
+          <p>
+            Blah
+          </p>
+        </statement>
+          <hint>
+            <p>
+              yada yada
+            </p>
+          </hint>
+          <solution>
+            <p>
+              Ofta
+            </p>
+          </solution>
+        </exercise>
       </section>
 
     </chapter>
