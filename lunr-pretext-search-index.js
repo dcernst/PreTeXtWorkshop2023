@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section title",
-  "body": " Section title  Hello world    If is a continuous function such that exists, then we say that is integrable .    As we saw in , math is cool...   Rad caption...       "
+  "body": " Section title  Hello world    If is a continuous function such that exists, then we say that is integrable .    As we saw in , math is cool...   Rad caption...       Testing local...   Blah   yada yada   Ofta   "
 },
 {
   "id": "def-blah",
@@ -35,6 +35,15 @@ var ptx_lunr_docs = [
   "number": "1.1.2",
   "title": "",
   "body": " Rad caption...      "
+},
+{
+  "id": "exercise-1",
+  "level": "2",
+  "url": "section-title.html#exercise-1",
+  "type": "Problem",
+  "number": "1.1.3",
+  "title": "",
+  "body": " Blah   yada yada   Ofta  "
 },
 {
   "id": "colophon-2",
